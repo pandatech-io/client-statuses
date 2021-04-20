@@ -3,7 +3,7 @@
 These are the statuses for each of our clients, based on the CircleCI that we have run against each commit to development branch.
 
 ### Homestory
-[![CircleCI](https://circleci.com/gh/pandatech-io/kirin-dashboard.svg?style=svg&circle-token=dd3e121c2cf9c91ab70fa4a3e7562860f6452a9e)](https://circleci.com/gh/pandatech-io/kirin-dashboard) Dashboard
+[![CircleCI](https://circleci.com/gh/pandatech-io/kirin-dashboard.svg?style=svg&circle-token=dd3e121c2cf9c91ab70fa4a3e7562860f6452a9e)](https://circleci.com/gh/pandatech-io/kirin-dashboard) - Dashboard
 
 [![CircleCI](https://circleci.com/gh/pandatech-io/kirin-web.svg?style=svg&circle-token=af1777b594f809594b043871e9419c9271bf8267)](https://circleci.com/gh/pandatech-io/kirin-web) - Client 
 
