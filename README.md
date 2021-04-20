@@ -14,9 +14,13 @@ These are the statuses for each of our clients, based on the CircleCI that we ha
 [![CircleCI](https://circleci.com/gh/pandatech-io/coral-web.svg?style=svg&circle-token=40d31e041c68c11f2b522be44eb991f80944b1ba)](https://circleci.com/gh/pandatech-io/coral-web) - Client
 
 
+### Lopez 
+[![CircleCI](https://circleci.com/gh/pandatech-io/lopez.svg?style=svg&circle-token=4c9384754f9f89a2f6c7a4f4182407f50e09e56d)](https://circleci.com/gh/pandatech-io/lopez) - Client
+
+
 ### Faction
 [![CircleCI](https://circleci.com/gh/pandatech-io/faction-cms.svg?style=svg&circle-token=3befea633d400cb9e140cff6c70a2d011bcb31e8)](https://circleci.com/gh/pandatech-io/faction-cms) - Dashboard
 
 
-### Lopez 
-[![CircleCI](https://circleci.com/gh/pandatech-io/lopez.svg?style=svg&circle-token=4c9384754f9f89a2f6c7a4f4182407f50e09e56d)](https://circleci.com/gh/pandatech-io/lopez) - Client
+### Illume
+Coming soon!
