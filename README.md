@@ -23,5 +23,5 @@ These are the statuses for each of our clients, based on the CircleCI that we ha
 [![CircleCI](https://circleci.com/gh/pandatech-io/faction-cms.svg?style=shield&circle-token=3befea633d400cb9e140cff6c70a2d011bcb31e8)](https://circleci.com/gh/pandatech-io/faction-cms) - Dashboard
 
 
-### Illume
-Coming soon!
+### Elisee
+[![CircleCI](https://circleci.com/gh/pandatech-io/elisee-web.svg?style=svg&circle-token=85049b4ffc9d31599d2b3f7483a3da04556ae1dd)](https://circleci.com/gh/pandatech-io/elisee-web) - Web
