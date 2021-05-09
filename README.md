@@ -24,4 +24,4 @@ These are the statuses for each of our clients, based on the CircleCI that we ha
 
 
 ### Elisee
-[![CircleCI](https://circleci.com/gh/pandatech-io/elisee-web.svg?style=svg&circle-token=85049b4ffc9d31599d2b3f7483a3da04556ae1dd)](https://circleci.com/gh/pandatech-io/elisee-web) - Web
+[![CircleCI](https://circleci.com/gh/pandatech-io/elisee-web.svg?style=shield&circle-token=85049b4ffc9d31599d2b3f7483a3da04556ae1dd)](https://circleci.com/gh/pandatech-io/elisee-web) - Client
